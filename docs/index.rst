@@ -5,7 +5,7 @@ If you are looking for a simple and secure way to manage your emails, browse the
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://helpshaft.com/desktop-gold-aol/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO Gold</a>
+       <a href="https://myaolgold.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO Gold</a>
    </div>
 
 This guide is designed to help both new and existing users easily download, install, and reinstall AOL Desktop Gold using their current membership or existing account credentials. By following the instructions outlined below, you can enjoy a seamless and secure AOL experience.
